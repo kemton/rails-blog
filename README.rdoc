@@ -1,4 +1,4 @@
 == rails-blog
 
 This is my getting started project for Ruby on Rails.
-<a href="http://guides.rubyonrails.org/getting_started.html">http://guides.rubyonrails.org/getting_started.html</a>
+http://guides.rubyonrails.org/getting_started.html
